@@ -6,4 +6,4 @@
 - HTML: <img src="icons/html.png" width="16" height="16">
 - SQL: <img src="icons/sql.png" width="16" height="16">
 To practice on my own what I learned in class I have done some personal projects such as the game of sanke or pakman, I am currently doing a new personal project of Mario Bros.
-<img src="https://c.tenor.com/JT8Eps_MjA0AAAAM/gato-computadora.gif" alt="Gato tecleando en la computadora" align="left" style="margin-right: 10px; margin-bottom: 10px;">
+![catdevelopper](https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
