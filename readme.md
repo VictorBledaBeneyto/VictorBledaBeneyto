@@ -1,4 +1,10 @@
+Hi, my name is Victor Bleda:
 
+Regarding my education: 📖
+I have studied at EPLA (ESO)
+Jesuits (GM Aadministration)
+Classroom Campous (GM computer science and networks)
+I am currently on a DAM GS
 <p>These are the languages I use at the moment</p>
 
 <img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Icono de Java" width="100" height="100"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
