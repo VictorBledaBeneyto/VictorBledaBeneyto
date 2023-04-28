@@ -1,6 +1,7 @@
 Hi, my name is Victor Bleda:
 
 Regarding my education: 📖
+
 I have studied at EPLA (ESO)
 Jesuits (GM Aadministration)
 Classroom Campous (GM computer science and networks)
