@@ -28,7 +28,7 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, c
 
 ### 📊 Proyectos Destacados
 
-#### 🔋 [Eficiencia Energética - Aula IoT]([https://github.com/VictorBledaBeneyto](https://github.com/VictorBledaBeneyto/Eficiencia-Energ-tica---Aula-IoT))
+#### 🔋 [Eficiencia Energética - Aula IoT]([https://github.com/VictorBledaBeneyto](https://github.com/VictorBledaBeneyto/Eficiencia-Energ-tica---Aula-IoT)
 Sistema predictivo de derroche energético en entornos educativos.
 - **Arquitectura:** Implementación de arquitectura Medallion (Bronze, Silver, Gold).
 - **IA:** Creación de un "sensor virtual" de calefacción mediante ML y predicción de derroche a 1h vista con Redes Neuronales.
