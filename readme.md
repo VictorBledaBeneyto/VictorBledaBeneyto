@@ -34,7 +34,7 @@ Sistema predictivo de derroche energético en entornos educativos.
 - **IA:** Creación de un "sensor virtual" de calefacción mediante ML y predicción de derroche a 1h vista con Redes Neuronales.
 - **Despliegue:** API REST en Flask y monitorización en tiempo real con Grafana.
 
-#### 🌟 [VenarIQ](https://github.com/VictorBledaBeneyto)
+#### 🌟 [VenarIQ]([https://github.com/VictorBledaBeneyto](https://fpempresa.net/iii-edicion-premios-transferencia-de-conocimiento-de-la-fp/))
 Plataforma web premiada diseñada para visibilizar y promover el talento femenino en entornos profesionales.
 
 #### 🤖 Chatbot IA - Flutter
