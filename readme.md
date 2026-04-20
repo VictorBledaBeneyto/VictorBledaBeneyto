@@ -28,13 +28,13 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, c
 
 ### 📊 Proyectos Destacados
 
-#### 🔋 [Eficiencia Energética - Aula IoT]([https://github.com/VictorBledaBeneyto](https://github.com/VictorBledaBeneyto/Eficiencia-Energ-tica---Aula-IoT))
+#### 🔋 [Eficiencia Energética - Aula IoT](https://github.com/VictorBledaBeneyto/Eficiencia-Energ-tica---Aula-IoT)
 Sistema predictivo de derroche energético en entornos educativos.
 - **Arquitectura:** Implementación de arquitectura Medallion (Bronze, Silver, Gold).
 - **IA:** Creación de un "sensor virtual" de calefacción mediante ML y predicción de derroche a 1h vista con Redes Neuronales.
 - **Despliegue:** API REST en Flask y monitorización en tiempo real con Grafana.
 
-#### 🌟 [VenarIQ]([https://github.com/VictorBledaBeneyto](https://fpempresa.net/iii-edicion-premios-transferencia-de-conocimiento-de-la-fp/))
+#### 🌟 [VenarIQ](https://fpempresa.net/iii-edicion-premios-transferencia-de-conocimiento-de-la-fp/)
 Plataforma web premiada diseñada para visibilizar y promover el talento femenino en entornos profesionales.
 
 #### 🤖 Chatbot IA - Flutter
