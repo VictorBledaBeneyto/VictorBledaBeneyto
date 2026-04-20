@@ -1,17 +1,61 @@
-Hi, my name is Victor Bleda:
+# ¡Hola! Soy Víctor Bleda Beneyto 👋
 
-Regarding my education: 📖
+### 👨‍💻 Desarrollador de Software | Especialista en IA & Big Data
 
-I have studied at EPLA (ESO)
-Jesuits (GM Aadministration)
-Classroom Campous (GM computer science and networks)
-I am currently on a DAM GS
-<p>These are the languages I use at the moment</p>
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en el ecosistema móvil, web y el análisis inteligente de datos. Actualmente, estoy cursando la **Especialización en IA y Big Data** para integrar modelos avanzados en aplicaciones del mundo real.
 
-<img src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icono-del-lenguaje-de-programacion-java.png" alt="Icono de Java" width="100" height="100"><img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
+---
 
-To practice on my own what I learned in class I have done some personal projects such as the game of sanke or pakman, I am currently doing a new personal project of Mario Bros.
+### 🚀 Sobre mí
 
+- 🎓 **Formación:** Grado Superior en DAM, Grado Medio en SMR y especializándome en IA/Big Data.
+- 🌍 **Experiencia Internacional:** Erasmus+ como Técnico Informático en la **Base Naval de Lisboa (CITAN)**, Portugal.
+- 🏆 **Reconocimientos:** 3er Premio en la 3ª Edición de Premios de Transferencia del Conocimiento FP por el proyecto **VenarIQ**.
+- 💼 **Perfil Híbrido:** Cuento con base en gestión administrativa, lo que me aporta una visión organizada y centrada en procesos de negocio.
 
-![catdevelopper](https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif)
+---
 
+### 🛠️ Stack Tecnológico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | Java, Kotlin, Python, PHP, SQL |
+| **IA & Data Science** | NumPy, Pandas, PySpark, Scikit-learn, Redes Neuronales (Keras/MLP) |
+| **Mobile & Web** | Flutter, WordPress, Firebase, Flask (API REST) |
+| **Herramientas & IoT** | Git, Odoo, MySQL, PostgreSQL, Home Assistant, MQTT |
+
+---
+
+### 📊 Proyectos Destacados
+
+#### 🔋 [Eficiencia Energética - Aula IoT](https://github.com/VictorBledaBeneyto)
+Sistema predictivo de derroche energético en entornos educativos.
+- **Arquitectura:** Implementación de arquitectura Medallion (Bronze, Silver, Gold).
+- **IA:** Creación de un "sensor virtual" de calefacción mediante ML y predicción de derroche a 1h vista con Redes Neuronales.
+- **Despliegue:** API REST en Flask y monitorización en tiempo real con Grafana.
+
+#### 🌟 [VenarIQ](https://github.com/VictorBledaBeneyto)
+Plataforma web premiada diseñada para visibilizar y promover el talento femenino en entornos profesionales.
+
+#### 🤖 Chatbot IA - Flutter
+Desarrollo de un asistente inteligente para la generación automatizada de presupuestos con integración en Firebase.
+
+---
+
+### 🎯 Skills & Competencias
+
+- **Soft Skills:** Liderazgo (Delegado de clase), Trabajo en equipo, Resiliencia, Adaptabilidad y Orientación a resultados.
+- **Idiomas:** Valenciano (Nativo), Español (Nativo), Inglés (B2).
+
+---
+
+### 📫 Conecta conmigo
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/victor-bleda-beneyto-4a9a90237)
+- 📧 [Email](mailto:vicblebe@gmail.com)
+- 🌐 [Mi Perfil de GitHub](https://github.com/VictorBledaBeneyto)
+
+---
+
+### ⚡ Fun Fact
+Además de programar, tengo experiencia coordinando grupos como Monitor de Tiempo Libre, lo que me ha dado herramientas clave para la comunicación efectiva y la resolución de conflictos bajo presión.
