@@ -52,7 +52,6 @@ Desarrollo de un asistente inteligente para la generación automatizada de presu
 ### 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-bleda-beneyto-4a9a90237)
-- 📧 [Email](mailto:vicblebe@gmail.com)
 - 🌐 [Mi Perfil de GitHub](https://github.com/VictorBledaBeneyto)
 
 ---
