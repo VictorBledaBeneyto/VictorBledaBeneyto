@@ -2,13 +2,13 @@
 
 ### 👨‍💻 Desarrollador de Software | Especialista en IA & Big Data
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en el ecosistema móvil, web y el análisis inteligente de datos. Actualmente, estoy cursando la **Especialización en IA y Big Data** para integrar modelos avanzados en aplicaciones del mundo real.
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en arquitecturas distribuidas y el análisis inteligente de datos. Actualmente, estoy cursando la **Especialización en IA y Big Data** para integrar modelos de visión artificial y procesamiento de datos masivos en aplicaciones escalables.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Grado Superior en DAM, Grado Medio en SMR y especializándome en IA/Big Data.
+- 🎓 **Formación:** Especialización en IA/Big Data, Grado Superior en DAM y Grado Medio en SMR.
 - 🌍 **Experiencia Internacional:** Erasmus+ como Técnico Informático en la **Base Naval de Lisboa (CITAN)**, Portugal.
 - 🏆 **Reconocimientos:** 3er Premio en la 3ª Edición de Premios de Transferencia del Conocimiento FP por el proyecto **VenarIQ**.
 - 💼 **Perfil Híbrido:** Cuento con base en gestión administrativa, lo que me aporta una visión organizada y centrada en procesos de negocio.
@@ -20,13 +20,21 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, c
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Lenguajes** | Java, Kotlin, Python, PHP, SQL |
-| **IA & Data Science** | NumPy, Pandas, PySpark, Scikit-learn, Redes Neuronales (Keras/MLP) |
-| **Mobile & Web** | Flutter, WordPress, Firebase, Flask (API REST) |
-| **Herramientas & IoT** | Git, Odoo, MySQL, PostgreSQL, Home Assistant, MQTT |
+| **IA & Data Science** | PyTorch (ResNet), YOLOv8, NumPy, Pandas, PySpark, Scikit-learn, Redes Neuronales (Keras/MLP) |
+| **Arquitectura & Data** | Apache Kafka (Event-Driven), FastAPI, PostgreSQL, MinIO (S3), Firebase |
+| **Mobile & Web** | Flutter, WordPress, Flask (API REST) |
+| **Herramientas & IoT** | Git, Docker & Docker Compose, Power BI, Odoo, Home Assistant, MQTT |
 
 ---
 
 ### 📊 Proyectos Destacados
+
+#### 👤 [Detección y Pixelado de Rostros](https://github.com/VictorBledaBeneyto/DeteccionYPixeladoDeImagenes)
+Sistema distribuido basado en eventos (Event-Driven) para el cumplimiento de privacidad en imágenes.
+- **Arquitectura:** Microservicios coordinados mediante **Apache Kafka** (sin llamadas HTTP síncronas).
+- **IA:** Pipeline de visión artificial con **YOLOv8** para detección y **ResNet-50 (PyTorch)** para estimación de edad.
+- **Infraestructura:** Almacenamiento en **MinIO (S3)**, base de datos PostgreSQL y despliegue orquestado con **Docker Compose**.
+- **Analítica:** Dashboard en **Power BI** para monitorizar el rendimiento del pipeline y métricas del modelo.
 
 #### 🔋 [Eficiencia Energética - Aula IoT](https://github.com/VictorBledaBeneyto/Eficiencia-Energ-tica---Aula-IoT)
 Sistema predictivo de derroche energético en entornos educativos.
@@ -34,7 +42,7 @@ Sistema predictivo de derroche energético en entornos educativos.
 - **IA:** Creación de un "sensor virtual" de calefacción mediante ML y predicción de derroche a 1h vista con Redes Neuronales.
 - **Despliegue:** API REST en Flask y monitorización en tiempo real con Grafana.
 
-#### 🌟3ºPuesto [VenarIQ](https://fpempresa.net/iii-edicion-premios-transferencia-de-conocimiento-de-la-fp/)
+#### 🌟 3º Puesto [VenarIQ](https://fpempresa.net/iii-edicion-premios-transferencia-de-conocimiento-de-la-fp/)
 Plataforma web premiada diseñada para visibilizar y promover el talento femenino en entornos profesionales.
 
 #### 🤖 Chatbot IA - Flutter
