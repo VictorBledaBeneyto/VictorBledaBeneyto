@@ -2,13 +2,13 @@
 
 ### 👨‍💻 Desarrollador de Software | Especialista en IA & Big Data
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en arquitecturas distribuidas y el análisis inteligente de datos. Actualmente, estoy cursando la **Especialización en IA y Big Data** para integrar modelos de visión artificial y procesamiento de datos masivos en aplicaciones escalables.
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en arquitecturas distribuidas y el análisis inteligente de datos. Actualmente, estoy cursando el **Máster en IA y Big Data** para integrar modelos de visión artificial y procesamiento de datos masivos en aplicaciones escalables.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Especialización en IA/Big Data, Grado Superior en DAM y Grado Medio en SMR.
+- 🎓 **Formación:** Máster en IA/Big Data, Grado Superior en DAM y Grado Medio en SMR.
 - 🌍 **Experiencia Internacional:** Erasmus+ como Técnico Informático en la **Base Naval de Lisboa (CITAN)**, Portugal.
 - 🏆 **Reconocimientos:** 3er Premio en la 3ª Edición de Premios de Transferencia del Conocimiento FP por el proyecto **VenarIQ**.
 - 💼 **Perfil Híbrido:** Cuento con base en gestión administrativa, lo que me aporta una visión organizada y centrada en procesos de negocio.
@@ -20,14 +20,21 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, c
 | Categoría | Tecnologías |
 | :--- | :--- |
 | **Lenguajes** | Java, Kotlin, Python, PHP, SQL |
-| **IA & Data Science** | PyTorch (ResNet), YOLOv8, NumPy, Pandas, PySpark, Scikit-learn, Redes Neuronales (Keras/MLP) |
-| **Arquitectura & Data** | Apache Kafka (Event-Driven), FastAPI, PostgreSQL, MinIO (S3), Firebase |
-| **Mobile & Web** | Flutter, WordPress, Flask (API REST) |
+| **IA & Data Science** | PyTorch (ResNet), YOLOv8, NumPy, Pandas, PySpark, Scikit-learn, spaCy, Redes Neuronales (Keras/MLP) |
+| **Arquitectura & Data** | Apache Kafka (Event-Driven), Apache Airflow, FastAPI, PostgreSQL, MinIO (S3), Firebase |
+| **Mobile & Web** | Flutter, WordPress, Flask (API REST), Streamlit |
 | **Herramientas & IoT** | Git, Docker & Docker Compose, Power BI, Odoo, Home Assistant, MQTT |
 
 ---
 
 ### 📊 Proyectos Destacados
+
+#### 🏥 [TriageIA — Priorización Médica Automática](https://github.com/VictorBledaBeneyto/TriageIA-Priorizaci-nM-dica-Autom-tica)
+Sistema de soporte a la decisión clínica que transforma el relato del paciente en una prioridad Manchester (C1–C5) mediante modelos NLP entrenados localmente.
+- **Dataset:** 272 entrevistas OSCE simuladas *(Fareez et al., 2022 — Nature Scientific Data)*.
+- **Pipeline NLP:** Extracción de entidades con **spaCy**, normalización clínica EN/ES y clasificación Manchester con **scikit-learn**.
+- **Infraestructura:** Orquestación con **Apache Airflow**, almacenamiento en **MinIO**, API de inferencia en **FastAPI** y dashboard clínico en **Streamlit**, desplegados con Docker Compose.
+- **Auditoría ética:** Detección y rechazo automático de casos de under-triage (C2 clasificado como C3 o inferior).
 
 #### 👤 [Detección y Pixelado de Rostros](https://github.com/VictorBledaBeneyto/DeteccionYPixeladoDeImagenes)
 Sistema distribuido basado en eventos (Event-Driven) para el cumplimiento de privacidad en imágenes.
@@ -61,6 +68,7 @@ Desarrollo de un asistente inteligente para la generación automatizada de presu
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-bleda-beneyto-4a9a90237)
 - 🌐 [Mi Perfil de GitHub](https://github.com/VictorBledaBeneyto)
+- 💻 [Web Personal](https://victorbledabeneyto.com/)
 
 ---
 
