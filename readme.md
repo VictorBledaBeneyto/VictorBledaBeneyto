@@ -85,6 +85,3 @@ Además de programar, tengo experiencia coordinando grupos como Monitor de Tiemp
 
 ---
 
-Cambios realizados:
-- **Stack:** añadidos Go, TypeScript, React, Tailwind CSS y Redis
-- **Nexus:** insertado como primer proyecto (el más reciente y técnicamente complejo en backend)
