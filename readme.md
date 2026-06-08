@@ -37,6 +37,15 @@ Plataforma de mensajería de nivel producción con workspaces, canales, hilos, r
 - **Búsqueda:** Full-text search con **PostgreSQL tsvector** y salto directo al mensaje con resaltado visual.
 - **Infraestructura:** Presencia online/offline con **Redis Sorted Sets**, JWT (HMAC-SHA256), métricas **Prometheus** y trazas **OpenTelemetry → Jaeger**, desplegado con Docker Compose.
 
+#### 🛒 [QuickBuy — E-Commerce Full Stack con Microservicios](https://github.com/VictorBledaBeneyto/quickbuy)
+Plataforma de e-commerce de nivel producción con arquitectura de microservicios, flujo de compra asíncrono coordinado por eventos y frontend React completo.
+- **Backend:** 7 microservicios en **Java 21 + Spring Boot 3.3** (API Gateway, Eureka, Config Server, User, Inventory, Order, Notification); hilos virtuales (Project Loom) habilitados en todos los servicios.
+- **Arquitectura:** Saga Choreography para coordinar transacciones distribuidas sin coordinador central, patrón Outbox (consistencia BD ↔ Kafka garantizada), CQRS (escrituras en PostgreSQL, lecturas en Redis < 1ms) y Circuit Breaker con Resilience4j.
+- **Mensajería:** **Apache Kafka** con 4 tópicos particionados y Dead Letter Topics; los eventos fluyen de forma asíncrona entre servicios eliminando el acoplamiento síncrono.
+- **Seguridad:** JWT firmado con **RSA-2048 (RS256)** — clave privada en user-service, pública distribuida vía config-server; rate limiting de 100 req/min por usuario con Redis.
+- **Frontend:** SPA en **React 19 + Tailwind CSS** con Zustand (auth + carrito), TanStack Query (caché de peticiones) y panel de administración con rutas protegidas por rol.
+- **Observabilidad:** Trazas distribuidas con **Zipkin**, métricas con **Prometheus + Grafana**, logs estructurados en JSON y health checks en todos los servicios.
+
 #### 🏥 [TriageIA — Priorización Médica Automática](https://github.com/VictorBledaBeneyto/TriageIA-Priorizaci-nM-dica-Autom-tica)
 Sistema de soporte a la decisión clínica que transforma el relato del paciente en una prioridad Manchester (C1–C5) mediante modelos NLP entrenados localmente.
 - **Dataset:** 272 entrevistas OSCE simuladas *(Fareez et al., 2022 — Nature Scientific Data)*.
@@ -82,6 +91,3 @@ Desarrollo de un asistente inteligente para la generación automatizada de presu
 
 ### ⚡ Fun Fact
 Además de programar, tengo experiencia coordinando grupos como Monitor de Tiempo Libre, lo que me ha dado herramientas clave para la comunicación efectiva y la resolución de conflictos bajo presión.
-
----
-
