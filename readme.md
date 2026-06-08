@@ -1,7 +1,3 @@
-Aquí tienes el perfil completo actualizado. He añadido Nexus a "Proyectos Destacados" y actualizado el stack para incluir Go, TypeScript, React y Redis que usas en ese proyecto:
-
----
-
 # ¡Hola! Soy Víctor Bleda Beneyto 👋
 
 ### 👨‍💻 Desarrollador de Software | Especialista en IA & Big Data
