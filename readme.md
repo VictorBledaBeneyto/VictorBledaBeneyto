@@ -1,3 +1,7 @@
+Aquí tienes el perfil completo actualizado. He añadido Nexus a "Proyectos Destacados" y actualizado el stack para incluir Go, TypeScript, React y Redis que usas en ese proyecto:
+
+---
+
 # ¡Hola! Soy Víctor Bleda Beneyto 👋
 
 ### 👨‍💻 Desarrollador de Software | Especialista en IA & Big Data
@@ -19,15 +23,23 @@ Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, c
 
 | Categoría | Tecnologías |
 | :--- | :--- |
-| **Lenguajes** | Java, Kotlin, Python, PHP, SQL |
+| **Lenguajes** | Go, Java, Kotlin, Python, TypeScript, PHP, SQL |
 | **IA & Data Science** | PyTorch (ResNet), YOLOv8, NumPy, Pandas, PySpark, Scikit-learn, spaCy, Redes Neuronales (Keras/MLP) |
-| **Arquitectura & Data** | Apache Kafka (Event-Driven), Apache Airflow, FastAPI, PostgreSQL, MinIO (S3), Firebase |
-| **Mobile & Web** | Flutter, WordPress, Flask (API REST), Streamlit |
+| **Arquitectura & Data** | Apache Kafka (Event-Driven), Apache Airflow, FastAPI, PostgreSQL, Redis, MinIO (S3), Firebase |
+| **Mobile & Web** | React, Tailwind CSS, Flutter, WordPress, Flask (API REST), Streamlit |
 | **Herramientas & IoT** | Git, Docker & Docker Compose, Power BI, Odoo, Home Assistant, MQTT |
 
 ---
 
 ### 📊 Proyectos Destacados
+
+#### 💬 [Nexus — Plataforma de Mensajería en Tiempo Real](https://github.com/VictorBledaBeneyto/Nexus)
+Plataforma de mensajería de nivel producción con workspaces, canales, hilos, reacciones, presencia e indicadores de escritura — arquitectura similar a Slack.
+- **Backend:** API REST + WebSocket en **Go** (Chi, gorilla/websocket); Hub goroutine con fan-out eficiente y cero mutexes.
+- **Tiempo real:** Escalado horizontal mediante **Redis Pub/Sub** — un mensaje enviado a una instancia llega a todos los clientes conectados a otras instancias.
+- **Frontend:** SPA en **React + TypeScript + Tailwind CSS** con estado global en **Zustand**, actualizaciones optimistas y reconexión automática con backoff exponencial.
+- **Búsqueda:** Full-text search con **PostgreSQL tsvector** y salto directo al mensaje con resaltado visual.
+- **Infraestructura:** Presencia online/offline con **Redis Sorted Sets**, JWT (HMAC-SHA256), métricas **Prometheus** y trazas **OpenTelemetry → Jaeger**, desplegado con Docker Compose.
 
 #### 🏥 [TriageIA — Priorización Médica Automática](https://github.com/VictorBledaBeneyto/TriageIA-Priorizaci-nM-dica-Autom-tica)
 Sistema de soporte a la decisión clínica que transforma el relato del paciente en una prioridad Manchester (C1–C5) mediante modelos NLP entrenados localmente.
@@ -74,3 +86,9 @@ Desarrollo de un asistente inteligente para la generación automatizada de presu
 
 ### ⚡ Fun Fact
 Además de programar, tengo experiencia coordinando grupos como Monitor de Tiempo Libre, lo que me ha dado herramientas clave para la comunicación efectiva y la resolución de conflictos bajo presión.
+
+---
+
+Cambios realizados:
+- **Stack:** añadidos Go, TypeScript, React, Tailwind CSS y Redis
+- **Nexus:** insertado como primer proyecto (el más reciente y técnicamente complejo en backend)
