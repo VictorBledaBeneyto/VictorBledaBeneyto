@@ -2,13 +2,14 @@
 
 ### 👨‍💻 Desarrollador de Software | Especialista en IA & Big Data
 
-Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en arquitecturas distribuidas y el análisis inteligente de datos. Actualmente, estoy cursando el **Máster en IA y Big Data** para integrar modelos de visión artificial y procesamiento de datos masivos en aplicaciones escalables.
+Soy un desarrollador apasionado por crear soluciones tecnológicas eficientes, con especial enfoque en arquitecturas distribuidas y el análisis inteligente de datos. He terminado el **Máster en IA y Big Data** (CIPFP Mislata, 2026), donde he integrado modelos de visión artificial y procesamiento de datos masivos en aplicaciones escalables. Busco mi primer puesto como **desarrollador junior** (backend, full stack, datos o IA) y estoy disponible para trasladarme.
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🎓 **Formación:** Máster en IA/Big Data, Grado Superior en DAM y Grado Medio en SMR.
+- 💼 **Ahora:** Técnico de Sistemas en **Grupo Sermicro**, en la renovación de puestos de trabajo para El Corte Inglés.
+- 🎓 **Formación:** Máster en IA/Big Data (2026), Grado Superior en DAM (2025) y Grado Medio en SMR.
 - 🌍 **Experiencia Internacional:** Erasmus+ como Técnico Informático en la **Base Naval de Lisboa (CITAN)**, Portugal.
 - 🏆 **Reconocimientos:** 3er Premio en la 3ª Edición de Premios de Transferencia del Conocimiento FP por el proyecto **VenarIQ**.
 - 💼 **Perfil Híbrido:** Cuento con base en gestión administrativa, lo que me aporta una visión organizada y centrada en procesos de negocio.
@@ -69,7 +70,10 @@ Sistema predictivo de derroche energético en entornos educativos.
 #### 🌟 3º Puesto [VenarIQ](https://fpempresa.net/iii-edicion-premios-transferencia-de-conocimiento-de-la-fp/)
 Plataforma web premiada diseñada para visibilizar y promover el talento femenino en entornos profesionales.
 
-#### 🤖 Chatbot IA - Flutter
+#### 🔎 [job-hunter](https://github.com/VictorBledaBeneyto/job-hunter) — Buscador automático de ofertas
+Buscador de ofertas de empleo en Python, preparado para ejecutarse de forma programada con GitHub Actions, que filtra por perfil y envía un resumen por correo.
+
+#### 🤖 Chatbot IA - Flutter (prácticas en Fibromark)
 Desarrollo de un asistente inteligente para la generación automatizada de presupuestos con integración en Firebase.
 
 ---
@@ -84,10 +88,9 @@ Desarrollo de un asistente inteligente para la generación automatizada de presu
 ### 📫 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/victor-bleda-beneyto-4a9a90237)
-- 🌐 [Mi Perfil de GitHub](https://github.com/VictorBledaBeneyto)
 - 💻 [Web Personal](https://victorbledabeneyto.com/)
 
 ---
 
 ### ⚡ Fun Fact
-Además de programar, tengo experiencia coordinando grupos como Monitor de Tiempo Libre, lo que me ha dado herramientas clave para la comunicación efectiva y la resolución de conflictos bajo presión.
+Además de programar, tengo experiencia coordinando grupos como Monitor de Tiempo Libre, lo que me ha dado herramientas clave para la comunicación efectiva y la resolución de conflictos bajo presión. Fuera del código juego al fútbol y hago teatro: el primero me enseñó a jugar en equipo; el segundo, a explicar una idea delante de cualquiera.
